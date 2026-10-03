@@ -1,0 +1,9 @@
+# Generated data / caches (not part of the source)
+papers/
+scored/
+reports/
+scoring/
+__pycache__/
+*.pyc
+*.log
+*.json.bak
